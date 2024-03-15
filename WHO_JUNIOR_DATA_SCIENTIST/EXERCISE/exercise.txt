@@ -1,0 +1,9 @@
+1. UN World Population Prospects (2022) — Population Estimates 1950-2021
+2. WHO Standard Population — Table 1 in 'Ahmad OB, Boschi-Pinto C, Lopez AD, Murray CJ, Lozano R, Inoue M (2001). Age standardization of rates: a new WHO standard.'
+
+Popular-5-years age groups and sex
+select All
+Median
+1950 - 2021
+
+Dimensions/Characteristics
