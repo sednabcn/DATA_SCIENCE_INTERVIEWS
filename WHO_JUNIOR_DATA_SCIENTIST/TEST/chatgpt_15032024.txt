@@ -1,0 +1,32 @@
+Formula of CRUDE DEATH RATE (CDR)
+
+The crude death rate (CDR) is a basic measure used in demography and public health to provide an estimate of the number of deaths in a population over a specific period of time, usually expressed per 1,000 individuals per year. The formula for calculating the crude death rate is:
+
+\[ \text{Crude Death Rate (CDR)} = \left( \frac{\text{Number of Deaths within a Year}}{\text{Mid-Year Population}} \right) \times 1000 \]
+
+Here's what each term means:
+
+- **Number of Deaths within a Year**: This is the total count of deaths recorded in a specific population during the one-year period.
+- **Mid-Year Population**: This refers to the population of the area of interest at the midpoint of the year. This is often used as an estimate of the average population for the year.
+- **1000**: The result is multiplied by 1000 to convert the rate into the number of deaths per 1,000 individuals to make it more comprehensible and comparable across different populations and times.
+
+The crude death rate is a fundamental statistic that helps in understanding the health status of a population, though it does not account for the age structure of the population, which can significantly affect the interpretation of this rate.
+
+The Formula of Age-specific death rate (ASDR)
+
+Age-standardized death rates (ASDRs), also known as age-adjusted death rates, are used to compare the mortality rates of different populations while accounting for differences in the age structure of those populations. This adjustment is important because age is a crucial factor in mortality rates, with older populations naturally having higher mortality rates than younger ones. The age-standardization process allows for fairer comparisons between populations or over time within the same population.
+
+The calculation of age-standardized death rates involves a few steps and can be based on different standard populations. However, a common approach uses the direct method of standardization, which can be summarized as follows:
+
+1. **Divide the population into age groups.**
+2. **Calculate the age-specific death rate for each age group in the population of interest.** This is done by dividing the number of deaths in each age group by the population of that age group, usually per 100,000 individuals.
+3. **Choose a standard population.** This is a hypothetical or real population distribution used as a common basis for comparison.
+4. **Apply the age-specific death rates of your population to the standard population.** This involves multiplying the age-specific death rates of your population by the corresponding age group populations of the standard population.
+5. **Sum these products to get the total number of expected deaths in the standard population.**
+6. **Divide this total by the overall size of the standard population (again, often per 100,000) to obtain the age-standardized death rate.**
+
+Mathematically, this can be expressed as:
+
+\[ \text{ASDR} = \frac{\sum (\text{Age-specific death rate} \times \text{Standard population in each age group})}{\text{Total standard population}} \times 100,000 \]
+
+This formula ensures that the death rate is standardized, allowing for comparisons that are not biased by the age distribution of the populations being compared.
